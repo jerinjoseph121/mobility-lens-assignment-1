@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Mobility Lens Assignment 1</string>
+    <string name="app_title">Mobility Lens</string>
+    <string name="app_intro">Android application that helps a developer consider the design implications of six dimensions</string>
+    <string name="dimension_interaction_name">Input and interaction</string>
+    <string name="dimension_interaction_description">Mobile apps mainly use touch, gestures, and on-screen keyboards</string>
+    <string name="dimension_interaction_implication">Buttons and controls should be easy to tap and simple to use</string>
+    <string name="dimension_orientation_name">Screen size, orientation, and density</string>
+    <string name="dimension_orientation_description">Phones come in many screen sizes and can switch between portrait and landscape</string>
+    <string name="dimension_orientation_implication">Developers should make layouts flexible so they work well on different devices</string>
+    <string name="dimension_lifecycle_name">Lifecycle and resource constraints</string>
+    <string name="dimension_lifecycle_description">Mobile devices have limited battery, memory, and processing power, and apps may be paused in the background</string>
+    <string name="dimension_lifecycle_implication">Apps should save user progress and avoid using unnecessary resources</string>
+    <string name="dimension_context_name">Context awareness</string>
+    <string name="dimension_context_description">Phones can use things like location, camera, Bluetooth, and sensors</string>
+    <string name="dimension_context_implication">Developers can use these features but must handle permissions and battery usage carefully</string>
+    <string name="dimension_patterns_name">Usage patterns</string>
+    <string name="dimension_patterns_description">Mobile apps are often used for short periods and users may be interrupted frequently</string>
+    <string name="dimension_patterns_implication">Tasks should be quick, simple, and easy to continue later</string>
+    <string name="dimension_security_name">Security and privacy expectations</string>
+    <string name="dimension_security_description">Phones often contain sensitive personal information</string>
+    <string name="dimension_security_implication">Developers should protect user data and only request permissions that are actually needed</string>
+    <string name="dimension_navigator_previous">Previous</string>"
+    <string name="dimension_navigator_next">Next</string>"
+    <string name="submit_button">Submit</string>
+    <string name="empty_field_error_message">Error: Text field cannot be empty</string>
+    <string name="combined_message">%1$s must account for %2$s</string>
+    <string name="dimension_position">Dimension %1$d of %2$d</string>
+    <string name="label_constraint">The constraint</string>
+    <string name="label_implication">What it means for your app</string>
+    <string name="design_target_prompt">Check your own work</string>
+    <string name="design_target_label">Application or feature name</string>
+    <string name="design_target_placeholder">Offline receipt scanner</string>
+
+</resources>
