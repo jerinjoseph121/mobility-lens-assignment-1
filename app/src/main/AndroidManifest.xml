@@ -14,7 +14,6 @@
         <activity
             android:name="com.jerinjoseph.mobilitylens.MainActivity"
             android:exported="true"
-            android:label="@string/app_name"
             android:theme="@style/Theme.MobilityLensAssignment1"
             android:windowSoftInputMode="adjustResize">
             <intent-filter>

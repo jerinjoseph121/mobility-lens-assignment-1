@@ -4,9 +4,9 @@ import androidx.annotation.StringRes
 import com.jerinjoseph.mobilitylens.R
 
 data class MobilityDimension(
-    @StringRes val nameRes: Int,
-    @StringRes val descriptionRes: Int,
-    @StringRes val implicationRes: Int
+    @param:StringRes val nameRes: Int,
+    @param:StringRes val descriptionRes: Int,
+    @param:StringRes val implicationRes: Int
 )
 
 val mobilityDimensions = listOf(
